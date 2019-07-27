@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 4EE4-7AB4
+
+ Directory of C:\Users\12408\Desktop\gitproject
+
+07/27/2019  04:43 PM    <DIR>          .
+07/27/2019  04:43 PM    <DIR>          ..
+07/27/2019  04:43 PM                 0 MyFirstFile.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  1,901,013,659,648 bytes free
